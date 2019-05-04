@@ -1,0 +1,1 @@
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\BAR\bartend.exe /F=C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\PartBar.BTW /p /x

@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CA1450BD-DBBF-45A7-A0C4-15C10BB2A4C9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>RSWMS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>RSWMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>RSWMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>B1C58C949AF47FB37DDA5B6F7A72F42E6FA5EFCA</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WindowsApplication1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GW26A22">
+      <HintPath>library\GW26A22.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Core">
+      <HintPath>..\Microsoft.Office.11.0.Object.Library\Microsoft.Office.11.0.Object.Library\Interop.Microsoft.Office.Core.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.MSWinsockLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.MSWinsockLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Office">
+      <HintPath>..\Microsoft.Office.11.0.Object.Library\Microsoft.Office.11.0.Object.Library\Interop.Office.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\Microsoft.Office.11.0.Object.Library\Microsoft.Office.11.0.Object.Library\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.10.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\Microsoft.Office.11.0.Object.Library\Microsoft.Office.11.0.Object.Library\Office.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Utility">
+      <HintPath>library\Utility.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="WMS\WMS报表\WMS_订单查看.Designer.vb">
+      <DependentUpon>WMS_订单查看.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS报表\WMS_订单查看.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_发运任务.Designer.vb">
+      <DependentUpon>WMS_发运任务.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_发运任务.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_发运单审核.Designer.vb">
+      <DependentUpon>WMS_发运单审核.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_发运单审核.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_国内订单.Designer.vb">
+      <DependentUpon>WMS_国内订单.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_国内订单.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_订单确认.Designer.vb">
+      <DependentUpon>WMS_订单确认.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_订单确认.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS配置\WMS_客户数据.Designer.vb">
+      <DependentUpon>WMS_客户数据.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS配置\WMS_客户数据.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\二级窗体\客户要货单详情.Designer.vb">
+      <DependentUpon>客户要货单详情.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\二级窗体\客户要货单详情.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="功能类\DBconfig.vb" />
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="test.Designer.vb">
+      <DependentUpon>test.vb</DependentUpon>
+    </Compile>
+    <Compile Include="test.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.vb">
+      <DependentUpon>UserControl1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\dataconfig.Designer.vb">
+      <DependentUpon>dataconfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\dataconfig.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="WMS\WMS报表\WMS_库存报表.Designer.vb">
+      <DependentUpon>WMS_库存报表.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS报表\WMS_库存报表.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS报表\WMS_事务报表.Designer.vb">
+      <DependentUpon>WMS_事务报表.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS报表\WMS_事务报表.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_盘点确认.Designer.vb">
+      <DependentUpon>WMS_盘点确认.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_盘点确认.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS配置\WMS_工厂数据.Designer.vb">
+      <DependentUpon>WMS_工厂数据.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS配置\WMS_工厂数据.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_订单.Designer.vb">
+      <DependentUpon>WMS_订单.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_订单.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_退货任务.Designer.vb">
+      <DependentUpon>WMS_退货任务.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS_退货任务.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS订单.Designer.vb">
+      <DependentUpon>WMS订单.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS管理\WMS订单.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\Resources.vb" />
+    <Compile Include="update.Designer.vb">
+      <DependentUpon>update.vb</DependentUpon>
+    </Compile>
+    <Compile Include="update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS配置\user.Designer.vb">
+      <DependentUpon>user.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS配置\user.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS现场\WMS现场web.Designer.vb">
+      <DependentUpon>WMS现场web.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS现场\WMS现场web.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS配置\WMS_库位.Designer.vb">
+      <DependentUpon>WMS_库位.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS配置\WMS_库位.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\主界面.Designer.vb">
+      <DependentUpon>主界面.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\主界面.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS管理\barcode.Designer.vb">
+      <DependentUpon>barcode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS管理\barcode.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS配置\WMS主数据.Designer.vb">
+      <DependentUpon>WMS主数据.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS配置\WMS主数据.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="图片上传.Designer.vb">
+      <DependentUpon>图片上传.vb</DependentUpon>
+    </Compile>
+    <Compile Include="图片上传.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="登录.designer.vb">
+      <DependentUpon>登录.vb</DependentUpon>
+    </Compile>
+    <Compile Include="登录.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="登录old.Designer.vb">
+      <DependentUpon>登录old.vb</DependentUpon>
+    </Compile>
+    <Compile Include="登录old.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WMS\WMS管理\盘点任务.Designer.vb">
+      <DependentUpon>盘点任务.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WMS\WMS管理\盘点任务.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="过渡窗体.Designer.vb">
+      <DependentUpon>过渡窗体.vb</DependentUpon>
+    </Compile>
+    <Compile Include="过渡窗体.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="test.resx">
+      <DependentUpon>test.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\dataconfig.resx">
+      <DependentUpon>dataconfig.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS报表\WMS_库存报表.resx">
+      <DependentUpon>WMS_库存报表.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS报表\WMS_事务报表.resx">
+      <DependentUpon>WMS_事务报表.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS报表\WMS_订单查看.resx">
+      <DependentUpon>WMS_订单查看.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS管理\WMS_发运任务.resx">
+      <DependentUpon>WMS_发运任务.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS管理\WMS_发运单审核.resx">
+      <DependentUpon>WMS_发运单审核.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS管理\WMS_国内订单.resx">
+      <DependentUpon>WMS_国内订单.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS管理\WMS_盘点确认.resx">
+      <DependentUpon>WMS_盘点确认.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS管理\WMS_订单确认.resx">
+      <DependentUpon>WMS_订单确认.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS配置\WMS_客户数据.resx">
+      <DependentUpon>WMS_客户数据.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS配置\WMS_工厂数据.resx">
+      <DependentUpon>WMS_工厂数据.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS管理\WMS_订单.resx">
+      <DependentUpon>WMS_订单.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS管理\WMS_退货任务.resx">
+      <DependentUpon>WMS_退货任务.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS管理\WMS订单.resx">
+      <DependentUpon>WMS订单.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update.resx">
+      <DependentUpon>update.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS配置\user.resx">
+      <DependentUpon>user.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS现场\WMS现场web.resx">
+      <DependentUpon>WMS现场web.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS配置\WMS_库位.resx">
+      <DependentUpon>WMS_库位.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\主界面.resx">
+      <DependentUpon>主界面.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS管理\barcode.resx">
+      <DependentUpon>barcode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS配置\WMS主数据.resx">
+      <DependentUpon>WMS主数据.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\二级窗体\客户要货单详情.resx">
+      <DependentUpon>客户要货单详情.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="图片上传.resx">
+      <DependentUpon>图片上传.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登录.resx">
+      <DependentUpon>登录.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登录old.resx">
+      <DependentUpon>登录old.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WMS\WMS管理\盘点任务.resx">
+      <DependentUpon>盘点任务.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="过渡窗体.resx">
+      <DependentUpon>过渡窗体.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="WindowsApplication1_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <Content Include="Resources\flagchina.png" />
+    <None Include="Resources\IE地球.png" />
+    <None Include="Resources\welcomeWMS.png" />
+    <None Include="Resources\loginbottom.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\报表&amp;看板2.png" />
+    <None Include="Resources\主数据维护2.png" />
+    <None Include="Resources\现场验收操作2.png" />
+    <None Include="Resources\工单管理2.png" />
+    <None Include="Resources\物料管理2.png" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\物料管理.png" />
+    <None Include="Resources\报表&amp;看板.png" />
+    <None Include="Resources\现场验收操作.png" />
+    <None Include="Resources\工单管理.png" />
+    <None Include="Resources\主数据维护.png" />
+    <None Include="Resources\welcomemech.jpg" />
+    <None Include="Resources\loginimage.png" />
+    <None Include="Resources\透明LOGO.png" />
+    <None Include="Resources\taoci1.png" />
+    <None Include="Resources\back2.PNG" />
+    <None Include="Resources\7a928df20d7c736840eab682e729fde4.png" />
+    <None Include="Resources\工厂5.png" />
+    <None Include="Resources\产线DEMO.png" />
+    <None Include="Resources\生产机械1.png" />
+    <None Include="Resources\rs.png" />
+    <None Include="Resources\a1c50ee40a36bdebc629e46ff0f11dd9.png" />
+    <None Include="Resources\手机11.png" />
+    <None Include="Resources\Picture1.png" />
+    <None Include="Resources\电脑1.png" />
+    <None Include="Resources\卸货.png" />
+    <None Include="Resources\表11.png" />
+    <None Include="Resources\手机1.png" />
+    <None Include="Resources\9574e7bd3ab3befab046309c0fc882af.png" />
+    <None Include="Resources\fa415aee6457d28a0a2bffa8c9c9b7d9.png" />
+    <None Include="Resources\表1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Fakes\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

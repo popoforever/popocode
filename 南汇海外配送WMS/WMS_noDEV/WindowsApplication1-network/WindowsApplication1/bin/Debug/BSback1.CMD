@@ -1,0 +1,1 @@
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\bin\Debug\BAR\bartend.exe /F=D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\bin\Debug\BSback.BTW /p /x

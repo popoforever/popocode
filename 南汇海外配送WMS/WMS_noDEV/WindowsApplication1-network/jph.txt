@@ -1,0 +1,19 @@
+CREATE 
+    ALGORITHM = UNDEFINED 
+    DEFINER = `root`@`%` 
+    SQL SECURITY DEFINER
+VIEW `mes_mech`.`jph_view` AS
+    SELECT 
+        IFNULL(SUM(`mes_mech`.`transaction_info_mes`.`qty`),
+                0) AS `qty`,
+        `jphtime_station`.`time` AS `time`,
+        `mes_mech`.`transaction_info_mes`.`station` AS `station`,
+        `jphtime_station`.`station_name` AS `station_name`
+    FROM
+        (`mes_mech`.`jphtime_station`
+        LEFT JOIN `mes_mech`.`transaction_info_mes` ON ((((`mes_mech`.`transaction_info_mes`.`transaction` = '通过')
+            OR (`mes_mech`.`transaction_info_mes`.`transaction` = '返工通过'))
+            AND (TO_DAYS(`mes_mech`.`transaction_info_mes`.`datetime`) = TO_DAYS(NOW()))
+            AND (`jphtime_station`.`time` = DATE_FORMAT(`mes_mech`.`transaction_info_mes`.`datetime`, '%H'))
+            AND (`jphtime_station`.`station_name` = `mes_mech`.`transaction_info_mes`.`station`))))
+    GROUP BY `jphtime_station`.`station_name` , `jphtime_station`.`time` , `mes_mech`.`transaction_info_mes`.`station`

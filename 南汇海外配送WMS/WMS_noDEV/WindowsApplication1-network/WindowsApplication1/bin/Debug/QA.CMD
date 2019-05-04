@@ -1,0 +1,1 @@
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\bin\Debug\BAR\bartend.exe /F=D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\bin\Debug\QA.BTW /p /x

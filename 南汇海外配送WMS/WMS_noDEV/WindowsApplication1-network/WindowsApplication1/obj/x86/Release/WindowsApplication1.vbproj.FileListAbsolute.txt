@@ -1,0 +1,932 @@
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MES Thailand.exe.config
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MES Thailand.exe
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MES Thailand.pdb
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MES Thailand.xml
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\AxInterop.MSWinsockLib.dll
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.mes_order.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.mes_preassembly.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_关键件绑定.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.spare_part.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMSmain.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\MES Thailand.exe
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\MES Thailand.xml
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\MES Thailand.pdb
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Release\MES_taoci.exe.config
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Release\MES_taoci.exe
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Release\MES_taoci.pdb
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Release\MES_taoci.xml
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Release\AxInterop.MSWinsockLib.dll
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_缺陷主数据.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.工步.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_条码管理.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_工艺管理配置.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_主数据.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.终检确认1.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.人员产能报表.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_上线.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.order_taoci.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.test.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_order.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.mes_preassembly.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_关键件绑定.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.spare_part.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_工艺路线.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMSmain.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\MES_taoci.exe
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\MES_taoci.xml
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\MES_taoci.pdb
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\Utility.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_缺陷主数据.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES工步费用主数据.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.工步.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_条码管理.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_工艺管理配置.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_主数据.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.终检确认1.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_工单报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_缺陷报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES工单矩阵.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.人员产能报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.order_taoci.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.test.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_工艺路线.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS主数据.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.主界面.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录old.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\MES_minan.exe.config
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\MES_minan.exe.manifest
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\MES_minan.application
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\MES_minan.exe
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\MES_minan.pdb
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Release\MES_minan.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\MES_minan.exe.manifest
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\MES_minan.application
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\MES_minan.exe
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\MES_minan.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\MES_minan.pdb
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\Utility.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_缺陷主数据.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES工步费用主数据.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.工步.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_条码管理.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_工艺管理配置.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_主数据.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.终检确认1.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_工单报表.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_缺陷报表.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES工单矩阵.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.人员产能报表.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.order_taoci.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.test.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES_工艺路线.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.主界面.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS主数据.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录old.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库位.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.config
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.application
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.pdb
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.licenses
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.application
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.pdb
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS现场web.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS订单.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\Interop.SHDocVw.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_订单.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_退货任务.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_工厂数据.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.config
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\Interop.SHDocVw.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.pdb
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.application
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.pdb
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\Utility.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.xml
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.test.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_工厂数据.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_订单.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_退货任务.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS订单.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS现场web.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库位.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.主界面.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS主数据.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录old.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.licenses
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.application
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_盘点确认.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库存报表.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_事务报表.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运任务.resources
+D:\项目管理\z拓展\DIY\提交版\配送中心WMS\RSWMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_客户数据.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.config
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\Interop.SHDocVw.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.pdb
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.application
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.pdb
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\Utility.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.xml
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.test.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库存报表.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_事务报表.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运任务.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_盘点确认.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_客户数据.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_工厂数据.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_订单.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_退货任务.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS订单.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS现场web.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库位.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.主界面.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS主数据.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录old.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.licenses
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\DIY\提交版\WMS\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.application
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.config
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\Interop.SHDocVw.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.pdb
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.application
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.pdb
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\Utility.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.xml
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.test.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库存报表.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_事务报表.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运任务.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_盘点确认.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_客户数据.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_工厂数据.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_订单.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_退货任务.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS订单.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.update.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS现场web.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库位.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.主界面.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS主数据.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录old.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.licenses
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\RW合作\WMS源代码\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.application
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.config
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\Interop.SHDocVw.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.pdb
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.application
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.pdb
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\Utility.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Data.v14.1.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Printing.v14.1.Core.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Snap.v14.1.Core.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.Utils.v14.1.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraBars.v14.1.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraEditors.v14.1.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraGrid.v14.1.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraLayout.v14.1.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\DevExpress.XtraPrinting.v14.1.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Data.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Printing.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Snap.v14.1.Core.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.Utils.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraBars.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraEditors.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraGrid.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraLayout.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\de\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\es\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ja\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\bin\Release\ru\DevExpress.XtraPrinting.v14.1.resources.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.test.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库存报表.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_事务报表.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_盘点确认.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_客户数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_工厂数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_退货任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.update.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS现场web.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库位.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.主界面.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS主数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录old.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.licenses
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.application
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.客户要货单详情.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运单审核.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_国内订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.config
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\Interop.SHDocVw.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.pdb
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.application
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.pdb
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\Utility.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.test.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库存报表.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_事务报表.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运单审核.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_国内订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_盘点确认.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_客户数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_工厂数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_退货任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.update.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS现场web.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库位.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.主界面.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS主数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.客户要货单详情.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录old.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.licenses
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.application
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.config
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\Interop.SHDocVw.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.pdb
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.application
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.pdb
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\bin\Release\Utility.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.test.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库存报表.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_事务报表.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运单审核.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_国内订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_盘点确认.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_客户数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_工厂数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_退货任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.update.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS现场web.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库位.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.主界面.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS主数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.客户要货单详情.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录old.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.licenses
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS noDEV - Copy\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.application
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.config
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\Interop.SHDocVw.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.pdb
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.application
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.pdb
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\Utility.dll
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.xml
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.test.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库存报表.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_事务报表.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运单审核.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_国内订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_盘点确认.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_客户数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_工厂数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_退货任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS订单.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.update.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS现场web.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库位.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.主界面.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS主数据.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.客户要货单详情.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录old.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.licenses
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.manifest
+D:\项目管理\z拓展\RW合作\南汇海外物流系统\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.application
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\Interop.SHDocVw.dll
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.xml
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.pdb
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.config
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.test.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.UserControl1.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.dataconfig.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库存报表.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_事务报表.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运任务.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_发运单审核.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_国内订单.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_盘点确认.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_客户数据.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_工厂数据.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_订单.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_退货任务.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS订单.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.update.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.user.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS现场web.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_库位.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.主界面.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.barcode.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS主数据.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.客户要货单详情.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.图片上传.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.登录old.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.盘点任务.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.过渡窗体.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.licenses
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe.manifest
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.application
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.exe
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.pdb
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\RSWMS.xml
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\GW26A22.dll
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\Utility.dll
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\MySql.Data.xml
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\bin\Release\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.exe.manifest
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\RSWMS.application
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_订单确认.resources
+C:\工作\RW合作\南汇海外配送WMS\WMS_noDEV\WindowsApplication1-network\WindowsApplication1\obj\x86\Release\WindowsApplication1.WMS_订单查看.resources

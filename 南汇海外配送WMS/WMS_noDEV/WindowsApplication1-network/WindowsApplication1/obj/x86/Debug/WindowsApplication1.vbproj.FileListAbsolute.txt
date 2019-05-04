@@ -1,0 +1,505 @@
+C:\Users\aduji\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\aduji\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\aduji\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\aduji\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aduji\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\aduji\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\aduji\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aduji\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aduji\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\aduji\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\aduji\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.基础资料维护.resources
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.查询.resources
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xiaxian.resources
+D:\MES相关\MES\芜湖\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.form2.resources
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.form2.resources
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xiaxian.resources
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.查询.resources
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.基础资料维护.resources
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.order.resources
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.usersel.resources
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.tracing.resources
+D:\MES相关\MES\泰国\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.shangxian.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.form2.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.order.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.shangxian.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.tracing.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.usersel.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xiaxian.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.查询.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.report.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.io.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\bin\Debug\GW26A22.dll
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.dataconfig.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.print.resources
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\MES相关\MES\泰国\WindowsApplication1-local\WindowsApplication1\obj\x86\Debug\WindowsApplication1.sparepart.resources
+D:\MES相关\MES\泰国\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\MES相关\MES\泰国\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\MES相关\MES\泰国\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\MES相关\MES\泰国\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\bin\Debug\GW26A22.dll
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.form2.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.io.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.order.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.print.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.report.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.shangxian.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.sparepart.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.tracing.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.usersel.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xiaxian.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.查询.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.dataconfig.resources
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\2017\泰国MES二期\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.prekanban.resources
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\bin\Debug\GW26A22.dll
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.WMSmain.resources
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.订单条码明细.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\bin\Debug\GW26A22.dll
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.WMSmain.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_order.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_preassembly.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.spare_part.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_关键件绑定.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES Thailand.exe.config
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES Thailand.exe
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES Thailand.pdb
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES Thailand.xml
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES Thailand.exe
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES Thailand.xml
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES Thailand.pdb
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\WMS\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.exe.config
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.exe
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.pdb
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.xml
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\GW26A22.dll
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.mes_order.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.mes_preassembly.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_关键件绑定.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.spare_part.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.WMSmain.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.exe
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.xml
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.pdb
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺路线.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\MES taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺管理配置.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.exe.config
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.exe
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.xml
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.pdb
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.exe
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.pdb
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.xml
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\bin\Debug\GW26A22.dll
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺管理配置.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.mes_order.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.mes_preassembly.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_关键件绑定.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.spare_part.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺路线.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.WMSmain.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\MES\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_上线.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.exe.config
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.exe
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.xml
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.pdb
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.exe
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.pdb
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.xml
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\GW26A22.dll
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺管理配置.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_上线.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.order_taoci.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_order.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.mes_preassembly.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_关键件绑定.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.spare_part.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺路线.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.WMSmain.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_主数据.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.test.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_条码管理.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.终检确认1.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.工步.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_缺陷主数据.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.人员产能报表.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_缺陷报表.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工单报表.resources
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\Utility.dll
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.exe.config
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.exe
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.xml
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_taoci.pdb
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.exe
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.pdb
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_taoci.xml
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\bin\Debug\GW26A22.dll
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\bin\Debug\Utility.dll
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_缺陷主数据.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.工步.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_条码管理.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺管理配置.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_主数据.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.终检确认1.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工单报表.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_缺陷报表.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.人员产能报表.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_上线.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.order_taoci.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.test.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_order.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.mes_preassembly.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_关键件绑定.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.spare_part.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺路线.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.WMSmain.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\程序阶段备份\20180308\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\bin\Debug\GW26A22.dll
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\bin\Debug\Utility.dll
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_缺陷主数据.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.工步.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_条码管理.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺管理配置.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_主数据.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.终检确认1.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工单报表.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_缺陷报表.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.人员产能报表.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_上线.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.order_taoci.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.test.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_order.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.mes_preassembly.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_关键件绑定.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.spare_part.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺路线.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.WMSmain.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.exe.config
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.exe
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.pdb
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.xml
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_minan.exe
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_minan.xml
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_minan.pdb
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES工步费用主数据.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES工单矩阵.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.exe.manifest
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.application
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_minan.exe.manifest
+D:\项目管理\z拓展\DIY\MES_mech\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_minan.application
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.exe.config
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_minan.exe
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_minan.xml
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_minan.pdb
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.exe.manifest
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.application
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.exe
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.pdb
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_minan.xml
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\bin\Debug\GW26A22.dll
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\bin\Debug\Utility.dll
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_缺陷主数据.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES工步费用主数据.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.工步.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_条码管理.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺管理配置.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_主数据.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.终检确认1.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工单报表.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_缺陷报表.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES工单矩阵.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.人员产能报表.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.order_taoci.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.test.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺路线.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.WMSmain.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_minan.exe.manifest
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_minan.application
+D:\项目管理\z拓展\DIY\MES_minan\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.WMS主数据.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_mech.exe.config
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_mech.exe.manifest
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_mech.application
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_mech.exe
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_mech.pdb
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Debug\MES_mech.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Debug\GW26A22.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\bin\Debug\Utility.dll
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_缺陷主数据.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES工步费用主数据.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.工步.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_条码管理.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺管理配置.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_主数据.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.终检确认1.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工单报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_缺陷报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES工单矩阵.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.人员产能报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.order_taoci.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.test.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.UserControl1.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.dataconfig.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_事务报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_BOM.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_现场看板.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES配置.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.orderinput.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.update.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.user.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.MES_工艺路线.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.WMSmain.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.barcode.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.WMS主数据.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.事务报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.入库.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.图片上传.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.库存报表.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.收货看板.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.登录.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点任务.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.盘点执行.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.移库.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.领料.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.过渡窗体.resources
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_mech.exe.manifest
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_mech.application
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_mech.exe
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_mech.xml
+D:\项目管理\z拓展\DIY\提交版\MES_minan界面美化\WindowsApplication1-network\WindowsApplication1\obj\x86\Debug\MES_mech.pdb

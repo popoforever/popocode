@@ -1,0 +1,1 @@
+D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\BAR\bartend.exe /F=D:\项目管理\z拓展\DIY\MES_taoci\WindowsApplication1-network\WindowsApplication1\bin\Debug\BSfront.BTW /p /x
